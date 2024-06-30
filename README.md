@@ -36,6 +36,13 @@ On my GitHub, you'll find a collection of projects showcasing my proficiency in 
 - <i class="fi fi-brands-linkedin"></i>: www.linkedin.com/in/mìhír-pràbhàth
 - Email: mihirprabhath@gmail.com
 - Whatsapp: 077 3592227
+<p align="left">
+
+
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="lakmal-premathilaka-39b607311" height="30" width="40" /></a><br>
+<a href="https://fb.com/gklakmal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="gklakmal10" height="30" width="40" /></a><br>
+<a href="https://www.youtube.com/c/Stream One" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Stream One" height="30" width="40" /></a><br>
+<a href="https://instagram.com/lakmal.premathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lakmal.premathilaka" height="30" width="40" /></a></p><br>
 
 <!-- Attractive Kotlin Logo -->
 <p align="center">
