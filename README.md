@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 # Hello, I'm Lakmal Premathilaka. 👋
 
 <!-- My Introduction -->
@@ -26,6 +28,18 @@ On my GitHub, you'll find a collection of projects showcasing my proficiency in 
 - Problem-Solving Skill
 - Team Work
 
+<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>&nbsp;</p>
 
 ## 📚 Projects
 - Gamage product website
@@ -33,18 +47,20 @@ On my GitHub, you'll find a collection of projects showcasing my proficiency in 
 - Calculator
 
 ## 📫 Let's Connect
-- <i class="fi fi-brands-linkedin"></i>: www.linkedin.com/in/mìhír-pràbhàth
-- Email: mihirprabhath@gmail.com
-- Whatsapp: 077 3592227
+- Email: Lakmalpremathilaka17@gmail.com
+- Phone: +94 705543137 | +94 740982756
+
+---
+
+<a href="https://www.linkedin.com/in/lakmal-premathilaka-39b607311" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+<a href="https://github.com/gklakmal10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>&nbsp;
+<a href="lakmalpremathilaka17@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<br>
+<a href="https://instagram.com/lakmal.premathilaka" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
+<a href="https://web.facebook.com/gklakmal10"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> &nbsp;
+
 <p align="left">
-
-
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="lakmal-premathilaka-39b607311" height="30" width="40" /></a><br>
-<a href="https://fb.com/gklakmal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="gklakmal10" height="30" width="40" /></a><br>
-<a href="https://www.youtube.com/c/Stream One" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Stream One" height="30" width="40" /></a><br>
-<a href="https://instagram.com/lakmal.premathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lakmal.premathilaka" height="30" width="40" /></a></p><br>
-
-<!-- Attractive Kotlin Logo -->
-<p align="center">
-  <img src="https://github.com/JetBrains/kotlin/blob/master/assets/images/twitter-card/kotlin_800x418.png" alt="Kotlin Logo">
-</p>
+<a href="https://linkedin.com/in/lakmal-premathilaka-39b607311" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="lakmal-premathilaka-39b607311" height="30" width="40" /></a>&nbsp;
+<a href="https://codepen.io/Kumudu-Lakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="Kumudu-Lakmal" height="30" width="40" /></a>&nbsp;
+<a href="https://fb.com/gklakmal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="gklakmal10" height="30" width="40" /></a>&nbsp;
+<a href="https://instagram.com/lakmal.premathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lakmal.premathilaka" height="30" width="40" /></a>&nbsp;</p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
