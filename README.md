@@ -42,9 +42,10 @@ On my GitHub, you'll find a collection of projects showcasing my proficiency in 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>&nbsp;</p>
 
 ## 📚 Projects
-- Gamage product website
-- Tic Tac Toc Mobile game
+- Gamage Product Website
+- Tic Tac Toc Wobile Game
 - Calculator
+- Portfolio Website
 
 ## 📫 Let's Connect
 - Email: Lakmalpremathilaka17@gmail.com
