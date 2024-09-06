@@ -17,9 +17,9 @@ On my GitHub, you'll find a collection of projects showcasing my proficiency in 
 <!-- My GitHub Stats -->
 
 
-## 🛠️ Skills
-- Python Programming 
+## 🛠️ Skills 
 - HTML & CSS
+- Bootstrap
 - Java & JavaScript
 - Angular & Spring Framework
 - UI/UX Designing | Figma
